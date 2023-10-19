@@ -1,0 +1,18 @@
+{
+  "projectId": "5t8ehh",
+  "testFiles": "**/*.{feature,features}",
+  "env": {
+    "cypress-plugin-snapshots": {},
+    "cypress-react-unit-test": {
+      "react": "../../node_modules/react/umd/react.development.js",
+      "react-dom": "../../node_modules/react-dom/umd/react-dom.development.js"
+    }
+  },
+  "chromeWebSecurity": false,
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true
+  },
+  "viewportWidth": 1048,
+  "viewportHeight": 660,
+  "video": false
+}

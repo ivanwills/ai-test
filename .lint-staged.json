@@ -1,0 +1,3 @@
+{
+  "**/*.[tj]s?(x)": "npm run lint:fix"
+}

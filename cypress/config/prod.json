@@ -1,0 +1,7 @@
+{
+  "baseUrl": "https://localhost",
+  "env": {
+    "mcssEnv": "502"
+  },
+  "chromeWebSecurity": false
+}

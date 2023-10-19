@@ -1,0 +1,10 @@
+node_modules/**/*.*
+scripts/sonar.js
+configs/jest.config.js
+build/main.*.js
+build-*/main.*.js
+storybook-static/*.js
+storybook-static/**/*.js
+build
+**/dist/*
+tmp/
